@@ -1,0 +1,18 @@
+#clock{
+    background-color:burlywood;
+    border-radius: 10px;
+    padding: 10px 20px;
+    /* margin: top 500px bottom 100px; */
+    /* position:absolute; */
+}
+#text{
+    border-radius: 100px;
+    background-color: steelblue;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#time{
+    text-align: center;
+    background-color:  brown ;
+    border-radius: 10000px;
+}
